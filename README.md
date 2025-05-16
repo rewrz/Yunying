@@ -12,6 +12,11 @@
 2. [关于2025年7月5日的预言，卦灵云缨算了一卦](https://rewrz.com/archive/july-5-2025-prophecy-explained)-2025.04.17
 3. [Dart + Flutter 重写“卦灵·云缨-道家小六壬APP”](https://rewrz.com/archive/dart-flutter-yunying-app-refactor-tips)-2025.05.11
 
+#### 卦灵·云缨-道家小六壬 APP
+
+1. [Github下载点](https://github.com/rewrz/Yunying/releases)
+2. [国内镜像下载点](https://hub.gitmirror.com/https://github.com/rewrz/Yunying/releases/download/Yunying-XiaoliurenAPP-Android-Release/Gualing-Yunying-Xiaoliuren.apk)
+
 ### 易经
 
 ### 六爻
