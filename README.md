@@ -13,6 +13,7 @@
 1. [从零开始，调教出会算卦的玄学AI——卦灵·云缨诞生！](https://rewrz.com/archive/my-xuanxue-ai-yunying)-2025.04.13
 2. [关于2025年7月5日的预言，卦灵云缨算了一卦](https://rewrz.com/archive/july-5-2025-prophecy-explained)-2025.04.17
 3. [Dart + Flutter 重写“卦灵·云缨-道家小六壬APP”](https://rewrz.com/archive/dart-flutter-yunying-app-refactor-tips)-2025.05.11
+4. [重写“卦灵·云缨-道家小六壬 APP”发布](https://rewrz.com/archive/rewrite-yunying-xiaoliuren-app-release)-2025.05.16
 
 #### 卦灵·云缨-道家小六壬 APP
 
